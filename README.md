@@ -1,11 +1,12 @@
 # **Prompt Library**
 
-A simple web app for browsing, creating, and managing visual prompt mixes.
+A lightweight web app for browsing, creating, and organizing visual prompt mixes.
 
 ## **Features**
 
-* View prompt cards with preview images
-* Search and sort mixes
-* Edit, duplicate, and delete prompts
-* Add new mixes with one click
-* Light/Dark mode and grid/list views
+* Rename your entire prompt library
+* Prompt cards with large image previews
+* Search, sort, and switch between grid/list and gallery mode
+* Add, edit, duplicate, and delete mixes
+* Import / export library as JSON
+* Light/Dark theme toggle
