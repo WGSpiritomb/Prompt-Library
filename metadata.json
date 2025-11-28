@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Library (iOS 26 like)",
+  "description": "A dark-mode enabled library for storing and mixing prompts with image previews.",
+  "requestFramePermissions": []
+}
